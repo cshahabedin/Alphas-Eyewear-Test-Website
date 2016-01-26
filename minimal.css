@@ -21,7 +21,7 @@ nav ul li a { color: #333; }
 footer { border-top:1px solid #ccc; font-size:11px; line-height:26px; color:#999; }
 footer a { color:#999999; }
 footer a:hover { color:#105CB6; }
-footer ul li { display:inline; list-style:none; padding-left:20px; }
+footer ul li { display:inline; list-style:none; padding-left:10px; }
 
 /* Grid */
 .row { width: 100%; margin:0 auto 20px auto; display:inline-block; position:relative; }
