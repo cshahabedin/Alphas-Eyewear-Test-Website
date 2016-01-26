@@ -4,34 +4,74 @@
   border-width: 3px;
   width: 100%;
   float:left;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   list-style-type:none;
   background-color:white;
 }
 
 .sunglasses p {
   margin: 0px;
+  padding: 15px;
 }
 
-.sunglassestype {
-  padding: 15px;
+.sunglassestitle {
+  padding: 30px;
   text-decoration: underline;
   font-size: 25px;
 }
 
 .sunglasses img {
-  width: 150px;
+  width: 300px;
   float: left;
   padding-right: 20px;
 }
-.album {
-  border-style: solid;
-  border-width: 5px;
-  height: 100%;
+
+.sunglassesprice {
+  font-weight: bold;
 }
 
-.albumtitle {
+.blog {
+  border-style: solid;
+  border-color: #dddddd;
+  border-width: 3px;
+  width: 100%;
+  float:left;
+  margin-bottom: 40px;
+  list-style-type:none;
+  background-color:white;
+}
+
+.blog p {
+  margin: 0px;
   padding: 15px;
+}
+
+.blogpost {
+  padding: 30px;
   text-decoration: underline;
   font-size: 25px;
 }
+
+.blog img {
+  width: 300px;
+  float: left;
+  padding-right: 20px;
+}
+
+.blogdate {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url("http://www.trademarkia.com/logo-images/cameron-shahabedin/alphas-86684749.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
